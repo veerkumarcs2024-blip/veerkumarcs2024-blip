@@ -88,7 +88,6 @@ Keep exploring my repositories to see more projects, experiments, and learning m
 </td>
 </tr>
 </table>
----
 ## 📊 GitHub Statistics
 
 <div align="center">
