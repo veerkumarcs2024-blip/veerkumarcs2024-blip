@@ -3,12 +3,6 @@ My GitHub Profile | Student Developer | Web Dev, Java, AI &amp; Software Enginee
 # Hi, I'm Veer Kumar 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A56,50:2563EB,100:38BDF8&height=160&section=header" width="100%" alt="Blue banner" />
-
-  <br />
-
-  <img src="assets/veer-photo.gif" width="150" alt="Veer Kumar animated portrait" />
-
   <h1>Hi, I am Veer Kumar 👋</h1>
   <h3>Student Developer</h3>
 
