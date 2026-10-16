@@ -109,11 +109,67 @@ Keep exploring my repositories to see more projects, experiments, and learning m
 
 ## 🚀 Featured Projects
 
-- 🌐 **Web Development:** Add your website projects here.
-- ☕ **Java Projects:** Add your Java applications here.
-- 🤖 **AI Projects:** Share your AI experiments here.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Replace these examples with links to your actual repositories.
+### 🏢 Employee Leave & Payroll Management System
+
+![Completed](https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge)
+
+Employee leave and payroll management project.
+
+**Tech:** Java • MySQL • Spring Boot (verify actual stack)
+
+[View Source Code](https://github.com/veerkumarcs2024-blip/EmployeeLeavePayroll)
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Smart Timetable Scheduling System
+
+![In Progress](https://img.shields.io/badge/Status-In_Progress-2563EB?style=for-the-badge)
+
+A timetable scheduling project currently under development.
+
+**Tech:** To be added
+
+Source code link coming soon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ KICHSHOP — Flutter App
+
+![Planning](https://img.shields.io/badge/Status-Planning-64748B?style=for-the-badge)
+
+A planned mobile application project.
+
+**Planned Tech:** Flutter • Dart
+
+Source code link not available yet.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 My Developer Goals
+
+- Build useful real-world projects
+- Improve Java and web development
+- Learn backend and database development
+- Explore AI and software engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  **Building. Learning. Improving. 🚀**
+</div>
 
 ---
 
