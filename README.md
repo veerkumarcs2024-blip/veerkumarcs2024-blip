@@ -184,11 +184,29 @@ Source code link not available yet.
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <div align="center">
-  <a href="https://github.com/veerkumarcs2024-blip">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+
+  <h3>Let's connect, learn, and build something amazing together! 💙</h3>
+
+  <a href="veer.kumar.cs.2024@mitmeerut.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <p><b>Thanks for visiting my profile! ⭐</b></p>
-  <p>Building. Learning. Improving. Every day.</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:38BDF8&height=100&section=footer" width="100%" alt="Blue footer banner" />
+  <a href="mehtaviraj587@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="https://www.linkedin.com/in/veer-kumar-2a1063329/recent-activity/all/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/veerkumarcs2024-blip">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  **💡 Open to learning, collaboration, and new opportunities.**
+
+  *Building. Learning. Improving. 🚀*
+
 </div>
