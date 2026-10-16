@@ -1,10 +1,6 @@
-# VEER KUMAR
-My GitHub Profile | Student Developer | Web Dev, Java, AI &amp; Software Engineering
-
 <div align="center">
   <h1>Hi, I am Veer Kumar 👋</h1>
-  <h3>Student Developer</h3>
-
+  
   <p>Web Dev • Java • MySQL • Spring Boot • AI</p>
   <p><b>Building. Learning. Improving. 🚀</b></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:38BDF8&height=200&section=header&text=VEER%20KUMAR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Veer Kumar blue banner" />
@@ -19,13 +15,20 @@ My GitHub Profile | Student Developer | Web Dev, Java, AI &amp; Software Enginee
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Veer Kumar**, a student developer interested in building useful software and learning new technologies.
+Hi, I'm Veer Kumar, a student developer passionate about software development, problem-solving, and continuous learning.
 
-- 🌐 Interested in Web Development
-- ☕ Learning Java and programming fundamentals
-- 🤖 Exploring Artificial Intelligence
-- 💡 Building, learning, and improving every day
-- 🎯 Working toward becoming a skilled software engineer
+- 🎓 Building a strong foundation in computer science and software engineering
+- 🌐 Learning and building responsive web applications using HTML, CSS, and JavaScript
+- ☕ Exploring Java, object-oriented programming, and backend development with Spring Boot
+- 🗄️ Learning database design and management with MySQL
+- 🧠 Developing problem-solving skills through coding practice and hands-on projects
+- 🛠️ Using Git, GitHub, and Eclipse to build, manage, and improve projects
+- 🤖 Exploring AI and emerging technologies to understand how they can solve real-world problems
+- 🎯 Focused on writing clean, maintainable code and growing through feedback and consistent practice
+
+I believe great developers are built through curiosity, consistency, and the willingness to learn from mistakes. My goal is to turn what I learn into practical projects and gradually grow into a skilled software engineer.
+
+Always learning. Always building. Always improving. 🚀
 
 ---
 
