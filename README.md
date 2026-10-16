@@ -36,6 +36,59 @@ Hi! I'm **Veer Kumar**, a student developer interested in building useful softwa
 
 ---
 
+## 🚀 Things I've Built
+
+*A few projects I've worked on and continue to improve.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 miner-project
+
+**HTML Project**
+
+A project built with HTML. Explore the source code and implementation.
+
+[💻 VIEW SOURCE CODE](https://github.com/veerkumarcs2024-blip/miner-project)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 mealsproject
+
+**HTML Project**
+
+A project built with HTML. Explore the source code and implementation.
+
+[💻 VIEW SOURCE CODE](https://github.com/veerkumarcs2024-blip/mealsproject)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 EmployeeLeavePayroll
+
+**Employee Leave and Payroll Management System**
+
+A project focused on employee leave and payroll management.
+
+[💻 VIEW SOURCE CODE](https://github.com/veerkumarcs2024-blip/EmployeeLeavePayroll)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 More Projects Coming Soon
+
+Keep exploring my repositories to see more projects, experiments, and learning milestones.
+
+[📂 VIEW ALL REPOSITORIES](https://github.com/veerkumarcs2024-blip?tab=repositories)
+
+</td>
+</tr>
+</table>
+---
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -61,10 +114,10 @@ Hi! I'm **Veer Kumar**, a student developer interested in building useful softwa
 
 ## 🎯 My Goals
 
-- [ ] Build more real-world web projects
-- [ ] Improve my Java skills
-- [ ] Practice problem-solving
-- [ ] Explore AI and software engineering
+- [👍] Build more real-world web projects
+- [👍] Improve my Java skills
+- [👍] Practice problem-solving
+- [👍] Explore AI and software engineering
 
 ---
 
