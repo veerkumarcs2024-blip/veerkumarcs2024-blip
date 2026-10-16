@@ -183,24 +183,25 @@ Source code link not available yet.
 ---
 
 ## 🤝 Connect With Me
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
   <h3>Let's connect, learn, and build something amazing together! 💙</h3>
 
-  <a href="veer.kumar.cs.2024@mitmeerut.ac.in">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  <p>
+    I'm always excited to connect with fellow developers,
+    learn new technologies, and collaborate on meaningful projects.
+  </p>
+
+  <a href="mailto:veer.kumar.cs.2024@mitmeerut.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Veer Kumar" />
   </a>
-  <a href="mehtaviraj587@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <a href="https://www.linkedin.com/in/veer-kumar-2a1063329/recent-activity/all/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/veer-kumar-2a1063329/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://github.com/veerkumarcs2024-blip">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Veer Kumar on GitHub" />
   </a>
 
   <br/><br/>
