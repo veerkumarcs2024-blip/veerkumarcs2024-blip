@@ -28,11 +28,13 @@ Hi! I'm **Veer Kumar**, a student developer interested in building useful softwa
 
 ## 🛠️ Skills & Technologies
 
+## 🛠️ Skills & Technologies
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" alt="HTML CSS JavaScript Java Git GitHub VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,spring,eclipse,git,github,vscode&perline=10" alt="HTML, CSS, JavaScript, Java, MySQL, Spring Boot, Eclipse, Git, GitHub and VS Code" />
 </div>
 
-**Interests:** Web Dev • Java • AI • Software Engineering
+**Interests:** Web Dev • Java • MySQL • Spring Boot • Eclipse • AI • Software Engineering
 
 ---
 
