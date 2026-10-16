@@ -1,6 +1,5 @@
 # VEER KUMAR
 My GitHub Profile | Student Developer | Web Dev, Java, AI &amp; Software Engineering
-# Hi, I'm Veer Kumar 👋
 
 <div align="center">
   <h1>Hi, I am Veer Kumar 👋</h1>
