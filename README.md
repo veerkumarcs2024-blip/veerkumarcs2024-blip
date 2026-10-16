@@ -88,7 +88,7 @@ Keep exploring my repositories to see more projects, experiments, and learning m
 </td>
 </tr>
 </table>
-## 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veerkumarcs2024-blip&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
