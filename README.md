@@ -3,9 +3,19 @@ My GitHub Profile | Student Developer | Web Dev, Java, AI &amp; Software Enginee
 # Hi, I'm Veer Kumar 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:38BDF8&height=200&section=header&text=VEER%20KUMAR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Veer Kumar blue banner" />
-  <h3>Student Developer | Web Dev • Java • AI</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A56,50:2563EB,100:38BDF8&height=160&section=header" width="100%" alt="Blue banner" />
+
+  <br />
+
+  <img src="assets/veer-photo.gif" width="150" alt="Veer Kumar animated portrait" />
+
+  <h1>Hi, I am Veer Kumar 👋</h1>
+  <h3>Student Developer</h3>
+
+  <p>Web Dev • Java • MySQL • Spring Boot • AI</p>
   <p><b>Building. Learning. Improving. 🚀</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:38BDF8&height=200&section=header&text=VEER%20KUMAR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Veer Kumar blue banner" />
+  
   <p>
     <img src="https://img.shields.io/badge/Student-Developer-2563EB?style=for-the-badge" alt="Student Developer" />
     <img src="https://img.shields.io/badge/Focus-Web%20Development-0EA5E9?style=for-the-badge" alt="Web Development" />
