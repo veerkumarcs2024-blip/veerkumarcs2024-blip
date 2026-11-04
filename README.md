@@ -186,7 +186,7 @@ Source code link not available yet.
 
 <div align="center">
 
-  <h3>Let's connect, learn, and build something amazing together! 💙</h3>
+  <h3>Let's connect, learn, and build something amazing together 💙</h3>
 
   <p>
     I'm always excited to connect with fellow developers,
