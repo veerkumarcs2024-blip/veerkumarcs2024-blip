@@ -175,10 +175,10 @@ Source code link not available yet.
 
 ## 🎯 My Goals
 
-- [✅️] Build more real-world web projects
-- [✅️] Improve my Java skills
-- [✅️] Practice problem-solving
-- [✅️] Explore AI and software engineering
+- [👍] Build more real-world web projects
+- [👍] Improve my Java skills
+- [👍] Practice problem-solving
+- [👍] Explore AI and software engineering
 
 ---
 
