@@ -22,7 +22,7 @@ Hi, I'm Veer Kumar, a student developer passionate about software development, p
 - ☕ Exploring Java, object-oriented programming, and backend development with Spring Boot
 - 🗄️ Learning database design and management with MySQL
 - 🧠 Developing problem-solving skills through coding practice and hands-on projects
-- 🛠️ Using Git, GitHub, and Eclipse to build, manage, and improve projects
+- 🛠️ Using Git, GitHub,postman and Eclipse to build, manage, and improve projects
 - 🤖 Exploring AI and emerging technologies to understand how they can solve real-world problems
 - 🎯 Focused on writing clean, maintainable code and growing through feedback and consistent practice
 
