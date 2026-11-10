@@ -65,7 +65,7 @@ A project built with HTML. Explore the source code and implementation.
 
 **HTML Project**
 
-A project built with HTML. Explore the source code and implementation.
+A project built with HTML, CSS and JAVA  Explore the source code and implementation.
 
 [💻 VIEW SOURCE CODE](https://github.com/veerkumarcs2024-blip/mealsproject)
 
