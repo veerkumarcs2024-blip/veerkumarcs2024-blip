@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, It's Veer Kumar 👋</h1>
+  <h1>Hi,I Am Veer Kumar 👋</h1>
   
   <p>Web Dev • Java • MySQL • Spring Boot • AI</p>
   <p><b>Building. Learning. Improving. 🚀</b></p>
