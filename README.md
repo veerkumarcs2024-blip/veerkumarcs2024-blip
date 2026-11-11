@@ -115,7 +115,7 @@ Keep exploring my repositories to see more projects, experiments, and learning m
 
 ### 🏢 Employee Leave & Payroll Management System
 
-![Completed](https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge)
 
 Employee leave and payroll management project.
 
