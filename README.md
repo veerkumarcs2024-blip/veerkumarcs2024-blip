@@ -78,7 +78,7 @@ A project built with HTML, CSS and JAVA  Explore the source code and implementat
 
 **Employee Leave and Payroll Management System**
 
-A project focused on employee leave and payroll management.
+A project focused on employee leave and payroll management System.
 
 [💻 VIEW SOURCE CODE](https://github.com/veerkumarcs2024-blip/EmployeeLeavePayroll)
 
