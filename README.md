@@ -15,10 +15,10 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Veer Kumar, a student developer passionate about software development, problem-solving, and continuous learning.
+Hi, I'm Veer Kumar, a student developer passionate about software development,   problem-solving, and continuous learning.
 
-- 🎓 Building a strong foundation in computer science and software engineering
-- 🌐 Learning and building responsive web applications using HTML, CSS, and JavaScript
+- 🎓 Building a strong foundation in computer science and software engineering.
+- 🌐 Learning and building responsive web applications using HTML, CSS, java and JavaScript
 - ☕ Exploring Java, object-oriented programming, and backend development with Spring Boot
 - 🗄️ Learning database design and management with MySQL
 - 🧠 Developing problem-solving skills through coding practice and hands-on projects
