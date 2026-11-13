@@ -157,7 +157,7 @@ Source code link not available yet.
 ### 🎯 My Developer Goals
 
 - Build useful real-world projects
-- Improve Java and web development
+- Improve Coding and web development
 - Learn backend and database development
 - Explore AI and software engineering
 
