@@ -32,7 +32,7 @@ Always learning. Always building. Always improving. 🚀
 
 ---
 
-## 🛠️ Skills & Technology 
+## 🛠️ Skills & Technologies 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,spring,eclipse,git,github,vscode&perline=10" alt="HTML, CSS, JavaScript, Java, MySQL, Spring Boot, Eclipse, Git, GitHub and VS Code" />
